@@ -32,6 +32,7 @@ The work flow needed to do this is as follows:
 8. Delete our branch and merge the changes into the local master branch
 9. Delete the fork
 
+
 ### Requirements
 
 You'll need a few things to get started:
