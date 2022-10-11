@@ -35,6 +35,8 @@ The work flow needed to do this is as follows:
 
 ### Requirements
 
+
+
 You'll need a few things to get started:
 * A GitHub account
 * A command-line utility for Git. If you need one, try [Git Bash](https://git-scm.com/downloads)
