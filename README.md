@@ -24,10 +24,10 @@ This is basis of GitHub collaboration.
 The work flow needed to do this is as follows:
 1. Fork this repo
 2. Clone the forked repo
-3. Create a new branch in the local repo
+3. Create a new branch in  the local repo
 4. Edit the GuestBook.txt file
-5. Add, commit, and push the edits to the remote forked-repo
-6. Open the pull request in the remote repo
+5. Add, commit, and push  the edits to the remote forked-repo
+6. Open the pull request  in the remote repo
 7. Await the pull request to be approved and merged
 8. Delete our branch and merge the changes into the local master branch
 9. Delete the fork
